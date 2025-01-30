@@ -1,7 +1,3 @@
-## Preview
-<img alt="preview1" src="public/preview1.png" /> 
-<img alt="preview3" src="public/preview3.png" /> 
-<img alt="preview2" src="public/preview2.png" /> 
 
 ## About the project
 The project is a social media platform. It implements complex operations and relationships between models.
@@ -28,6 +24,3 @@ I've hosted it on vercel but there is a slight problem with file management as I
 Here is the link: https://connexia.vercel.app/
 
 But you can see a demo of the app run locally on this linkedin post: https://www.linkedin.com/posts/josu%C3%A9-mongan-a7b6242b8_prodigyinfotech-internship-nextjs-activity-7231875985220997120-4Dwg?utm_source=share&utm_medium=member_desktop
-
-## Hope you enjoy
-Have fun, leave a star if you like please and any contribution or improvement is welcome.
