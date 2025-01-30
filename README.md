@@ -19,7 +19,5 @@ JWT_SECRET=
 
 Thirdly, you run **npm run dev**
 
-## Anyone can access this app
-I've hosted it on vercel but there is a slight problem with file management as I use fs module to manage images. But vercel only allow reading of files. I plan to solve it later by hosting the medias on AWS if possible. 
-Here is the link: https://connexia.vercel.app/
+
 
